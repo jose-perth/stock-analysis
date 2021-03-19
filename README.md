@@ -34,7 +34,7 @@ The table below contains the running time from each year for the original code a
 | Year | Original Code (s) | Refactored Code (s) | Improvement |
 | -----| --------------| --------------- | ------------|
 | 2017 | [0.711](resources/Original_code_2017.png) | [0.102](resources/VBA_Challenge_2017.png) | -85.7% |
-| 2018 | [0.699](resources/Original_code_2018.png) | [0.106](resources/VBA_Challenge_2017.png) | -84.8% |
+| 2018 | [0.699](resources/Original_code_2018.png) | [0.106](resources/VBA_Challenge_2018.png) | -84.8% |
 
 Running time was measured from the moment a year was entered until the final formatting of the output table was completed.
 
