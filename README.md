@@ -53,7 +53,8 @@ The code would benefit from removing the hardwiring the ticker names into the `t
 ## Summary
 In this challenge we refactored a VBA macro to improve its performance. 
 
-> Code refactoring is the process of restructuring existing computer code—changing the factoring—without changing its external behavior. [1]
+> Code refactoring is the process of restructuring existing computer code—changing the factoring—without changing its external behavior. 
+Source [1]
 
 Among the benefits of code refactoring we find that it:
 - improves the design and quality of the code,
